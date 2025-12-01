@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Seaside Flow",
+  "base_artist": "03- Performance、JAKEN、Rommy Montana",
+  "createdAt": "2025-12-01T13:47:02.321337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seaside Flow",
+      "artist": "03- Performance",
+      "has_synced": true,
+      "path": "select/01_Seaside_Flow_03-_Performance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seaside Flow",
+      "artist": "03- Performance, JAKEN & Rommy Montana",
+      "has_synced": true,
+      "path": "select/02_Seaside_Flow_03-_Performance,_JAKEN_&_Rommy_Montana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seaside Flow",
+      "artist": "03- Performance, JAKEN & Rommy Montana",
+      "has_synced": false,
+      "path": "select/pl_01_Seaside_Flow_03-_Performance,_JAKEN_&_Rommy_Montana.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Seaside Flow2",
+      "artist": "03- Performance, JAKEN & Rommy Montana",
+      "has_synced": false,
+      "path": "select/pl_02_Seaside_Flow2_03-_Performance,_JAKEN_&_Rommy_Montana.txt"
+    }
+  ]
+}
